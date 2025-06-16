@@ -27,7 +27,7 @@ Prerequisites
 
 # Installation
 
-- git clone https://github.com/your-org/SHADOW.git
+- git clone https://github.com/DnlVisionSoft/SHADOW.git
 - cd SHADOW
 - addpath(genpath(pwd));
 
